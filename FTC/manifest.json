@@ -1,0 +1,12 @@
+{
+    "name": "For_The_Company",
+    "version_number": "3.5.4",
+    "website_url": "https://discord.gg/ZGDMygkHX5",
+    "description": "[v50 FRIENDLY] This is a modpack with many new sound effects, scraps, QoL changes, moons, interiors, and mechanics without straying too far from the vanilla experience.",
+    "dependencies": [
+        "FTC_Team-FTC_Core-1.11.3",
+        "FTC_Team-FTC_Cosmos-2.9.0",
+        "FTC_Team-FTC_Cosmetics-1.1.0",
+        "FTC_Team-FTC_Ex-1.7.0"
+    ]
+}
