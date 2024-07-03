@@ -1,0 +1,23 @@
+{
+    "name": "FTC_Cosmos",
+    "version_number": "2.9.0",
+    "website_url": "",
+    "description": "The moons and interiors modpack for For The Company",
+    "dependencies": [
+        "theMenagerie-LiminalPools-1.0.8",
+        "Dantor-Dantors_Mental_Hospital-1.2.2",
+        "AudioKnight-StarlancerMoons-2.2.1",
+        "Major_And_Skiz-MoreInteriors-2.5.0",
+        "Piggy-LC_Office-1.1.30",
+        "Tolian-Tolian_Moons-2.0.8",
+        "Magic_Wesley-Wesleys_Moons-4.0.28",
+        "Magic_Wesley-WesleysInteriors-1.1.19",
+        "Badham_Mods-SCPFoundationDungeon-4.3.0",
+        "AudioKnight-StarlancerWarehouse-1.6.5",
+        "Tolian-HyperionStation-0.2.0",
+        "RosiePies-Rosies_Moons-2.0.2",
+        "YippieDev-LethalApertureMoon-1.1.0",
+        "YippieDev-LethalApertureDunGen-1.1.2",
+        "RosiePies-Sector0_Interior-2.0.2"
+    ]
+}

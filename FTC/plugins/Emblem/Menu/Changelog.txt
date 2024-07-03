@@ -1,0 +1,23 @@
+<size=25><b>For The Company v3.5.4</b></size>
+
+<size=20>Additions</size>
++ WeatherRegistry (dependency)
++ Sector-0 Interior (dependency)
+
+<size=20>Updates</size>
+~ WeatherTweaks
+~ MrovLib
+~ Scopophobia
+~ TerminalFormatter
+~ StarlancerWarehouse
+~ Lategame Upgrades
+~ WesleysInteriors
+~ OpenBodyCams
+~ EladsHUD
+~ ShipWindows
+~ Tolian Moons
+~ Rosies Moons
+~ Mirage
+~ Locker
+~ EnemySoundFixes
+~ loaforcsSoundAPI
